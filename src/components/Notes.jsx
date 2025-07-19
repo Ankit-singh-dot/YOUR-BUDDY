@@ -28,6 +28,19 @@ const Notes = () => {
         },
       },
       {
+        id: "python-programming",
+        name: "Python Programming",
+        icon: "📐",
+        resources: {
+          notes: "",
+          pyq: "",
+          qb: "https://drive.google.com/file/d/1jfJjrMCwJhv6ZuZCDdy4YbuoOhpjVXnz/view?usp=sharing",
+          syllabus: "",
+          Qb_solutions:
+            "https://drive.google.com/file/d/1B7ErUNd_0pkjaLmphOHkFhpbgPDNvIS1/view?usp=sharing",
+        },
+      },
+      {
         id: "physics",
         name: "Physics",
         icon: "⚛️",
@@ -82,7 +95,7 @@ const Notes = () => {
         resources: {
           notes: "",
           pyq: "",
-          qb: "https://drive.google.com/file/d/1POxhqJ9hVG3eJgh4VJt-OvxmB1L1LFZ8/view?usp=sharing",
+          qb: "",
           syllabus: "",
           Qb_solutions: "",
         },
@@ -99,7 +112,6 @@ const Notes = () => {
           Qb_solutions: "",
         },
       },
-     
     ],
     "2nd": [
       { id: "data-structures", name: "Data Structures", icon: "🔗" },
